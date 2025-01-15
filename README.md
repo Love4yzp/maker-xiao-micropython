@@ -1,4 +1,4 @@
-# Seeed Studio XIAO Code Snippets - MicroPython
+# [Seeed Studio XIAO](https://www.seeedstudio.com/xiao-series-page) Code Snippets - MicroPython
 
 ### Folder Structure
 
